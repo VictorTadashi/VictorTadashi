@@ -14,6 +14,10 @@
 
 ###
 
+<p align="left">My portfolio: https://portifolio-six-gules-61.vercel.app/</p>
+
+###
+
 <h3 align="left">Connect with me:</h3>
 
 ###
@@ -26,10 +30,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">My portfolio: https://portifolio-six-gules-61.vercel.app/</p>
 
 ###
 
