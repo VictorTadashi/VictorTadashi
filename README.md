@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋! My name is Victor Tadashi<br><br>Software Engineering student and Front-End Web Developer</h2>
 
-###
-
 <h2 align="center">Projects</h2>
 
 ###
