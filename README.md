@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">😁 About me:</h1>
+<h2 align="center">😁 About me:</h2>
 
 <div align="center">
   <table>
@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">📖 Projects</h1>
+<h2 align="center">📖 Projects</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h1 align="center">🧑🏻‍💻 Technologies</h1>
+<h2 align="center">🧑🏻‍💻 Technologies</h2>
 
 ###
 
