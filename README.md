@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Front-end:</h2>
+<h3 align="left">Front-end:</h3>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h2 align="left">Backend:</h2>
+<h3 align="left">Backend:</h3>
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 
-<h2 align="left">Database:</h2>
+<h3 align="left">Database:</h3>
 
 ###
 
