@@ -2,6 +2,30 @@
 
 ###
 
+<h1 align="center">About me:</h1>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" >
+        <br>
+        <p align="left">Software Engineering Student at FIAP ⚙️</p>
+        <br>
+        <p aling="left">I'm 19 years old</p>
+        <br>
+        <p align="left">Design and web design specialist 🖌️</p>
+        <br>
+        <p align="left">Front-end web development enthusiast 🌐</p>
+      </td>
+      <td valign="top">
+        <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG85bnZtY2VqaHF2cHl3cTFkanByNGozYmlrbHZ3OHg2Zzd2eGVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <h1 align="center">Projects</h1>
 
 ###
