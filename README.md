@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Victor Tadashi<br><br>Software Engineer ⚙️ | Web Development 💻 | Web Designer ✏️ </h1>
+<h1 align="center">Hi 👋! I'm Victor Tadashi<br><br>Software Engineer ⚙️ | Web Development 💻 | Web Designer ✏️ </h1>
 
 ###
 
