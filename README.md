@@ -18,7 +18,7 @@
         <p align="left">Front-end web development enthusiast 🌐</p>
       </td>
       <td valign="top">
-        <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG85bnZtY2VqaHF2cHl3cTFkanByNGozYmlrbHZ3OHg2Zzd2eGVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+        <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV0dmpuMmlvMmZzbWZ5b2dic3BtaWF1ZzBic2FsaXltcjZlNHI0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" />
       </td>
     </tr>
   </table>
