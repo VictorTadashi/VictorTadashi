@@ -29,11 +29,7 @@
 
 ###
 
-<h3 align="left">My portfolio: <p align="left">https://portifolio-six-gules-61.vercel.app/</p></h3>
-
-###
-
-<p align="left">https://portifolio-six-gules-61.vercel.app/</p>
+<p align="left">My portfolio: https://portifolio-six-gules-61.vercel.app/</p>
 
 ###
 
