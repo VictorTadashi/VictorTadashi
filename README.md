@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Victor Tadashi<br><br>Software Engineering student and Front-End Web Developer</h2>
+<h2 align="center">Hi 👋! My name is Victor Tadashi<br><br>Software Engineer ⚙️ | Web Development 💻 | Web Designer ✏️ </h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📱 Connect with me:</h3>
 
 ###
 
@@ -31,6 +31,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="center">🧑🏻‍💻 Technologies</h1>
 
 ###
 
