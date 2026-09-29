@@ -64,9 +64,16 @@ IA & Automação
 
 <!-- ===================== BANNER ===================== --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Victor%20Tadashi&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20Engineering&descSize=20&descAlignY=56" alt="Victor Tadashi" /> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Tadashi+%F0%9F%91%8B;Software+Developer+%7C+AI+Engineering;Dev+Front+End+AI+%40+Skillplace;Engenharia+de+Software+%40+FIAP;Rumo+a+AI+Engineer+%F0%9F%9A%80" alt="Apresentação" /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/victor-tadashi-saito-barra-578b7a308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/victortadashi.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://victortadashi.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"> </p>
-👨🏻‍💻 Sobre mim
 
-Sou Victor Tadashi Saito Barra, desenvolvedor de software em São Paulo. Trabalho na interseção entre desenvolvimento web, ferramentas de IA e sistemas de conteúdo, e gosto de transformar ideias em produtos que as pessoas realmente usam.
+## 👨🏻‍💻 Sobre mim
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=1200&color=3FB950&multiline=true&width=800&height=200&lines=const+victor+%3D+%7B;%C2%A0%C2%A0nome%3A+%22Victor+Tadashi%22%2C;%C2%A0%C2%A0cargo%3A+%22Dev+Front+End+AI+%40+Skillplace%22%2C;%C2%A0%C2%A0formacao%3A+%22Eng.+de+Software+%40+FIAP%22%2C;%C2%A0%C2%A0stack%3A+%5B%22TypeScript%22%2C+%22React%22%2C+%22C%23%22%2C+%22.NET%22%2C+%22Python%22%2C+%22Java%22%5D%2C;%C2%A0%C2%A0objetivo%3A+%22AI+Engineer+%F0%9F%9A%80%22%2C;%7D%3B" alt="const victor = { nome: 'Victor Tadashi', stack: [...] }" />
+</p>
+
+Sou **Victor Tadashi Saito Barra**, desenvolvedor de software em São Paulo. Trabalho na interseção entre **desenvolvimento web, ferramentas de IA e sistemas de conteúdo**, e gosto de transformar ideias em produtos que as pessoas realmente usam.
+
+---
 
 🏢 Onde trabalho
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:8957e5&height=110&text=Skillplace&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Plataforma%20LMS%2FLXP%20de%20aprendizagem&descSize=16&descAlignY=78&fontAlignY=40" alt="Skillplace" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=700&color=A371F7&center=true&vCenter=true&width=650&lines=Dev+Front+End+AI+na+Skillplace;Plataforma+LMS%2FLXP+de+aprendizagem;Do+front-end+ao+back-end;Sites%2C+APIs+e+ferramentas+com+IA" alt="Skillplace" /> </p>
