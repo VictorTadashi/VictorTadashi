@@ -149,11 +149,11 @@ Atuo na **[Skillplace](https://www.skillplace.com.br/)** desde julho de 2025, em
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**MeetMind**](https://github.com/VictorTadashi/SEU_REPO) | Análise de transcrições de reuniões com IA para a TOTVS: 768 transcrições reais anonimizadas, extração de sinais de negócio (churn, upsell, concorrentes) | Java · IA |
-| [**Vitalis**](https://github.com/VictorTadashi/SEU_REPO) | Plataforma de telemedicina — Global Solution FIAP (equipe Grasshoppers) | Java · POO · UML |
-| [**Task Manager Full Stack**](https://github.com/VictorTadashi/SEU_REPO) | Migração de app console C# para aplicação web completa | React · TypeScript · ASP.NET Core · PostgreSQL |
-| [**MyFinances**](https://github.com/VictorTadashi/SEU_REPO) | Finanças pessoais: de console para Web API + front-end | ASP.NET Core · SQLite · React |
-| [**Instagram Carousel Squad**](https://github.com/VictorTadashi/SEU_REPO) | Automação de carrosséis sobre TI/IA com lógica anti-repetição e export em PNG | Claude Code · Playwright · Pexels API |
+| **MeetMind** | Análise de transcrições de reuniões com IA para a TOTVS: 768 transcrições reais anonimizadas, extração de sinais de negócio (churn, upsell, concorrentes) | Java · IA |
+| **Vitalis** | Plataforma de telemedicina — Global Solution FIAP (equipe Grasshoppers) | Java · POO · UML |
+| **Task Manager Full Stack** | Migração de app console C# para aplicação web completa | React · TypeScript · ASP.NET Core · PostgreSQL |
+| **MyFinances** | Finanças pessoais: de console para Web API + front-end | ASP.NET Core · SQLite · React |
+| **Instagram Carousel Squad** | Automação de carrosséis sobre TI/IA com lógica anti-repetição e export em PNG | Claude Code · Playwright · Pexels API |
 
 ### 🌐 Sites em produção
 
