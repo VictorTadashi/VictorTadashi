@@ -78,6 +78,7 @@ const victor = {
   proximoPasso: "Cibersegurança 🔐",
   localizacao: "São Paulo, Brasil 🇧🇷",
 };
+
 🏢 Onde trabalho
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:8957e5&height=110&text=Skillplace&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Plataforma%20LMS%2FLXP%20de%20aprendizagem&descSize=16&descAlignY=78&fontAlignY=40" alt="Skillplace" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=700&color=A371F7&center=true&vCenter=true&width=650&lines=Dev+Front+End+AI+na+Skillplace;Plataforma+LMS%2FLXP+de+aprendizagem;Do+front-end+ao+back-end;Sites%2C+APIs+e+ferramentas+com+IA" alt="Skillplace" /> </p>
 
