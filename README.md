@@ -68,7 +68,7 @@ IA & Automação
 ## 👨🏻‍💻 Sobre mim
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=800&color=3FB950&multiline=true&width=800&height=200&lines=const+victor+%3D+%7B;%C2%A0%C2%A0nome%3A+%22Victor+Tadashi%22%2C;%C2%A0%C2%A0cargo%3A+%22Dev+Front+End+AI+%40+Skillplace%22%2C;%C2%A0%C2%A0formacao%3A+%22Eng.+de+Software+%40+FIAP%22%2C;%C2%A0%C2%A0stack%3A+%5B%22TypeScript%22%2C+%22React%22%2C+%22C%23%22%2C+%22.NET%22%2C+%22Python%22%2C+%22Java%22%5D%2C;%C2%A0%C2%A0objetivo%3A+%22AI+Engineer+%F0%9F%9A%80%22%2C;%7D%3B" alt="const victor = { nome: 'Victor Tadashi', stack: [...] }" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=700&pause=800&color=3FB950&multiline=true&width=800&height=200&lines=const+victor+%3D+%7B;%C2%A0%C2%A0nome%3A+%22Victor+Tadashi%22%2C;%C2%A0%C2%A0cargo%3A+%22Dev+Front+End+AI+%40+Skillplace%22%2C;%C2%A0%C2%A0formacao%3A+%22Eng.+de+Software+%40+FIAP%22%2C;%C2%A0%C2%A0stack%3A+%5B%22TypeScript%22%2C+%22React%22%2C+%22C%23%22%2C+%22.NET%22%2C+%22Python%22%2C+%22Java%22%5D%2C;%C2%A0%C2%A0objetivo%3A+%22AI+Engineer+%F0%9F%9A%80%22%2C;%7D%3B" alt="const victor = { nome: 'Victor Tadashi', stack: [...] }" />
 </p>
 
 Sou **Victor Tadashi Saito Barra**, desenvolvedor de software em São Paulo. Trabalho na interseção entre **desenvolvimento web, ferramentas de IA e sistemas de conteúdo**, e gosto de transformar ideias em produtos que as pessoas realmente usam.
