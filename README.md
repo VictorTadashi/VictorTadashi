@@ -166,6 +166,7 @@ Ferramentas & Deploy
 IA & Automação
 
 <p> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> </p>
+
 ## 📊 Estatísticas
 
 <p align="center">
