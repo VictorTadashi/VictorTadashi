@@ -166,6 +166,17 @@ Ferramentas & Deploy
 IA & Automação
 
 <p> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> </p>
-📊 Estatísticas
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorTadashi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTadashi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=VictorTadashi&theme=github-dark-blue&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorTadashi&theme=github-compact&hide_border=true&area=true" width="100%" /> </p>
-<p align="center"> <i>Sempre aberto a conversar sobre IA, desenvolvimento web e novos projetos. Bora trocar uma ideia? 🤝</i> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorTadashi&theme=github-dark-blue&hide_border=true" />
+</p>
