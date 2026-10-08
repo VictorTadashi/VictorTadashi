@@ -80,9 +80,9 @@ IA & Automação
   <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VictorTadashi&label=Visitas+no+perfil&color=1f6feb&style=flat-square" alt="Visitas" />
-</p>
+</p> -->
 
 ---
 
