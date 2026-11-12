@@ -231,8 +231,6 @@ Atuo na **[Skillplace](https://www.skillplace.com.br/)** desde julho de 2025, em
 
 ---
 
-## 🐍 Minhas contribuições sendo devoradas
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorTadashi/VictorTadashi/output/github-snake-dark.svg" />
